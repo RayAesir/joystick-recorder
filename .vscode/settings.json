@@ -1,0 +1,22 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/build": true
+  },
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/build/**": true
+  },
+  "search.exclude": {
+    "**/build": true
+  },
+  "C_Cpp.files.exclude": {
+    "**/.vscode": true,
+    "**/build": true
+  },
+  "files.associations": {
+    "ostream": "cpp",
+    "array": "cpp"
+  }
+}

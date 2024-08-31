@@ -1,0 +1,9 @@
+set(SOURCES
+    src/cmd.cc
+    src/cmd.h
+    src/device.cc
+    src/device.h
+    src/global.cc
+    src/global.h
+    src/main.cc
+)
