@@ -4,12 +4,16 @@
 - Precisely record your joystick to binary file.
 - Play record.
 
-E.g. You can even record FPV Controller and use replay in Liftoff.
+E.g. You can record FPV Controller and use replay in Liftoff.
 Use keyboard to calibrate Fake Joystick.
 
-![Calibrate Fake Joystick](./docs/calibrate.png 'Calibrate Fake Joystick')
+Calibrate Fake Joystick:
 
-![Play Record](./docs/play_record.png 'Play Record')
+https://github.com/user-attachments/assets/b6af1e2d-5f77-47d5-8b0c-47ec54b188e8
+
+Play Record:
+
+https://github.com/user-attachments/assets/18b2bcc7-de90-491a-bf63-ef6451c632e8
 
 ## How to use
 
@@ -18,19 +22,11 @@ Emulate joystick:
 joystick-recorder --mode emulate
 ```
 
-**Z** - Throttle min
-**C** - Throttle max
-
-**W** - Pitch down
-**S** - Pitch up
-
-**A** - Roll left
-**D** - Roll right
-
-**Q** - Yaw left
-**E** - Yaw right
-
-**F** - Rotate sticks
+**Z/C** - Throttle min/max  
+**W/S** - Pitch down/up  
+**A/D** - Roll left/right  
+**Q/E** - Yaw left/right  
+**F** - Rotate sticks  
 **R** - Reset
 
 Record:
